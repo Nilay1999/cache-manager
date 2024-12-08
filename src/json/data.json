@@ -1,0 +1,15 @@
+{
+  "profie": 42,
+  "friendList": {
+    "list": [
+      {
+        "name": "Nilay",
+        "age": 10
+      }
+    ]
+  },
+  "profile": {
+    "name": "John",
+    "age": 45
+  }
+}
